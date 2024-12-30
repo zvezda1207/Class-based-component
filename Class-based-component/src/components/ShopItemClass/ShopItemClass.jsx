@@ -13,6 +13,7 @@ class ShopItemClass extends Component {
         <div className="description">
           {item.descriptionFull}
         </div>
+        <div className="rating">Рейтинг: {item.rating}★</div>
         <div className="highlight-window mobile">
           <div className="highlight-overlay"></div>
         </div>

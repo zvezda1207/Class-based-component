@@ -1,0 +1,1 @@
+export * from './ShopItemClass' /*экспортируем все из ShopItemClass.jsx, в этом случае импорт в App.jsx будет короче: import ShopItemClass from './components/ShopItemClass.jsx'   */
